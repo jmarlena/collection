@@ -1186,6 +1186,26 @@
         "name": "Setting up a Django Project from Scratch",
         "level": 0,
         "url": "http://realdjango.com/"
+      },
+      {
+        "name": "Django Girls Tutorial",
+        "level": 0,
+        "url": "http://tutorial.djangogirls.org/en/index.html"
+      },
+      {
+        "name": "Starting a Django Project",
+        "level": 0,
+        "url": "https://realpython.com/learn/start-django/"
+      },
+      {
+        "name": "How to Tango with Django",
+        "level": 0,
+        "url": "http://www.tangowithdjango.com/"
+      },
+      {
+        "name": "Django Girls Tutorial: Extensions",
+        "level": 1,
+        "url": "https://www.gitbook.com/book/djangogirls/django-girls-tutorial-extensions/details"
       }
     ]
   },
